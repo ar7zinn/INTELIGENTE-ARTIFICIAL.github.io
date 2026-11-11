@@ -150,4 +150,3 @@ plt.title(f"Previsão: {numero_previsto}")
 
 plt.axis("off")
 plt.show()
-
